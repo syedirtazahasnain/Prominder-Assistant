@@ -112,7 +112,7 @@
 								<!-- Start Logo -->
 								<!-- <a href="index.html"><img src="img/logo.png" alt="#"></a> -->
 								<div class="logo">
-									<a href="index.html"><img src="img/logo.jpeg" alt="#"></a>
+									<a href="index.html"><img src="img/logo_1.png" alt="#"></a>
 								</div>
 								<!-- End Logo -->
 								<!-- Mobile Nav -->
