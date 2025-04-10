@@ -297,7 +297,7 @@ body{
 	margin-right:8px;
 }
 .header .header-inner {
-	background:#fff;
+	background:#afafaf;
 	z-index:999;
 	width:100%;
 }
@@ -328,9 +328,9 @@ body{
 	margin:0;
 }
 .header .nav li a {
-	color: #2C2D3F;
-	font-size: 14px;
-	font-weight: 500;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
 	text-transform: capitalize;
 	padding: 25px 12px;
 	position: relative;

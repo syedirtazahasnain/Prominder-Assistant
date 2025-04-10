@@ -63,13 +63,13 @@ include('header.php');
 		<!--/ End Slider Area -->
 		
 		<!-- Start Schedule Area -->
-		<section class="schedule">
+		<section class="schedule" style="background-color: #17202c !important;">
 			<div class="container">
 				<div class="schedule-inner">
 					<div class="row">
-						<div class="col-lg-4 col-md-6 col-12 ">
+						<div class="col-lg-4 col-md-6 col-12 " style="background-color: #313949 !important;">
 							<!-- single-schedule -->
-							<div class="single-schedule first">
+							<div class="single-schedule first" style="background-color: #4b4f58 !important;">
 								<div class="inner">
 									<div class="icon">
 										<i class="fa fa-ambulance"></i>
@@ -83,9 +83,9 @@ include('header.php');
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-6 col-12">
+						<div class="col-lg-4 col-md-6 col-12" style="background-color: #313949 !important;">
 							<!-- single-schedule -->
-							<div class="single-schedule middle">
+							<div class="single-schedule middle" style="background-color: #4b4f58 !important;">
 								<div class="inner">
 									<div class="icon">
 										<i class="icofont-prescription"></i>
@@ -99,9 +99,9 @@ include('header.php');
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-12 col-12">
+						<div class="col-lg-4 col-md-12 col-12" style="background-color: #313949 !important;">
 							<!-- single-schedule -->
-							<div class="single-schedule last">
+							<div class="single-schedule last" style="background-color: #4b4f58 !important;">
 								<div class="inner">
 									<div class="icon">
 										<i class="icofont-ui-clock"></i>
@@ -122,22 +122,22 @@ include('header.php');
 		<!--/End Start schedule Area -->
 
 		<!-- Start Feautes -->
-		<section class="Feautes section">
+		<section class="Feautes section" style="background-color: #17202c !important;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<div class="section-title">
-							<h2>Appointments Has Never Been This Easy</h2>
+						<div class="">
+							<h1 style="color: #fff;">Appointments Has Never Been This Easy</h1>
 							<img src="img/section-img.png" alt="#">
-							<ul class="mt-3 text-start">
-								<li>Prospecting on different social media profiles (Facebook, LinkedIn, Instagram)</li>
-								<li>Email marketing</li>
-								<li>Manages a large volume of queries from your customers each day</li>
-								<li>Promotes your services to the target audience</li>
-								<li>Study the clientele to locate, market, and sell to other customers</li>
-								<li>Makes product or service information freely accessible across a range of platforms</li>
-								<li>Answers the client’s queries</li>
-								<li>Find your ideal client and schedule appointments and meetings</li>
+							<ul class="mt-3 ps-0" style="list-style: none; color: #fff;">
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Prospecting on different social media profiles (Facebook, LinkedIn, Instagram)</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Email marketing</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Manages a large volume of queries from your customers each day</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Promotes your services to the target audience</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Study the clientele to locate, market, and sell to other customers</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Makes product or service information freely accessible across a range of platforms</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Answers the client’s queries</li>
+								<li><i class="fa fa-check-circle text-warning me-2"></i>&nbsp;&nbsp;&nbsp;Find your ideal client and schedule appointments and meetings</li>
 							</ul>
 						</div>
 					</div>
@@ -147,77 +147,66 @@ include('header.php');
 		<!--/ End Feautes -->
 		
 		<!-- Start Blog Area -->
-		<section class="blog section" id="blog">
-			<div class="container">
+		<section class="blog section" id="blog" style="background-color: #17202c !important;">
+			<div class="container-fluid">
 				<div class="row">
-					<div class="col-lg-12">
-						<div class="section-title">
-							<h2>Take your Business To next Level</h2>
-							<!-- <img src="img/section-img.png" alt="#">
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
+					<div class="col-lg-12" style="background-color: #f9c349; width: 100%;">
+						<div class="section-title px-0">
+							<h1 style="color: #fff; font-size: 90px;">Take your Business To Next Level</h1>
+							<a href="#contact" class="btn btn-primary mt-4"
+								style="padding: 12px 30px; font-size: 18px; border-radius: 30px; background: linear-gradient(135deg, #00c6ff, #0072ff); border: none;">
+								<i class="fa fa-calendar-check me-2"></i>&nbsp;&nbsp;Schedule a Demo Call
+							</a>
 						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-4 col-md-6 col-12">
-						<!-- Single Blog -->
-						<div class="single-news">
-							<div class="news-head">
-								<img src="img/blog1.jpg" alt="#">
-							</div>
-							<div class="news-body">
-								<div class="news-content">
-									<!-- <div class="date">22 Aug, 2020</div> -->
-									<h2><a href="blog-single.html">-Connor Trott</a></h2>
-									<p class="text">Booking 3-6 calls per day is an absolute game changer for me</p>
-								</div>
-							</div>
-						</div>
-						<!-- End Single Blog -->
-					</div>
-					<div class="col-lg-4 col-md-6 col-12">
-						<!-- Single Blog -->
-						<div class="single-news">
-							<div class="news-head">
-								<img src="img/blog2.jpg" alt="#">
-							</div>
-							<div class="news-body">
-								<div class="news-content">
-									<!-- <div class="date">15 Jul, 2020</div> -->
-									<h2><a href="blog-single.html">Results-Oriented Solutions</a></h2>
-									<p class="text">I really see the results of my Coaching business within first 12 days</p>
-								</div>
-							</div>
-						</div>
-						<!-- End Single Blog -->
-					</div>
-					<div class="col-lg-4 col-md-6 col-12">
-						<!-- Single Blog -->
-						<div class="single-news">
-							<div class="news-head">
-								<img src="img/blog3.jpg" alt="#">
-							</div>
-							<div class="news-body">
-								<div class="news-content">
-									<!-- <div class="date">05 Jan, 2020</div> -->
-									<h2><a href="blog-single.html">From Art to Science</a></h2>
-									<p class="text">We are currently booking 8-13 calls per day</p>
-								</div>
-							</div>
-						</div>
-						<!-- End Single Blog -->
 					</div>
 				</div>
 			</div>
 		</section>
 		<!-- End Blog Area -->
+		<section class="py-5" style="background-color: #17202c !important;">
+			<div class="container">
+				<!-- Row 1 -->
+				<div class="row align-items-center">
+					<div class="col-md-8" style="background-color: #4d4a46 !important;">
+						<h6 style="color: #fff;" class="py-3">-Connor Trott</h6>
+						<p style="color: #fff;font-size: 40px; line-height: 60px; font-weight: 600;">Booking 3-6 calls per day is an absolute game changer for me</p>
+					</div>
+					<div class="col-md-4 text-center">
+						<img src="img/slider.jpg" class="img-fluid" alt="Grow Audience">
+					</div>
+				</div>
+				<hr>
+				<!-- Row 2 -->
+				<div class="row align-items-center mb-5">
+					<div class="col-md-4 text-center">
+						<img src="img/slider.jpg" class="img-fluid" alt="Workflow Automation">
+					</div>
+					<div class="col-md-8" style="background-color: #4d4a46 !important;">
+						<h6 style="color: #fff;" class="py-3">Results-Oriented Solutions</h6>
+						<p style="color: #fff;font-size: 40px; line-height: 60px; font-weight: 600;">I really see the results of my Coaching business within first 12 days</p>
+					</div>
+				</div>
+				<hr>
+				<!-- Row 3 -->
+				<div class="row align-items-center">
+					<div class="col-md-8" style="background-color: #4d4a46 !important;">
+						<h6 style="color: #fff;" class="py-3">From Art to Science</h6>
+						<p style="color: #fff;font-size: 40px; line-height: 60px; font-weight: 600;">We are currently booking 8-13 calls per day</p>
+					</div>
+					<div class="col-md-4 text-center">
+						<img src="img/slider.jpg" class="img-fluid" alt="Sales Boost">
+					</div>
+				</div>
+			</div>
+		</section>
+
 		<!-- Start case study -->
-		<section class="blog section" id="blog">
+		<section class="blog section" id="blog" style="background-color: #17202c !important;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section-title">
-							<h2>Case Studies</h2>
+							<h1 style="color: #fff;">Case Studies</h1>
 							<!-- <img src="img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
 						</div>
@@ -235,12 +224,12 @@ include('header.php');
 		</section>
 		<!-- End case study -->
 		<!-- Start Here is the feedback from our clients -->
-		<section class="blog section" id="blog">
+		<section class="blog section" id="blog" style="background-color: #17202c !important;">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
 						<div class="section-title">
-							<h2>Here is the feedback from our clients</h2>
+							<h1 style="color: #fff;">Here is the feedback from our clients</h1>
 							<!-- <img src="img/section-img.png" alt="#">
 							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
 						</div>
@@ -261,14 +250,16 @@ include('header.php');
 		</section>
 		<!-- End Here is the feedback from our clients -->
 		<!-- Start Here is the feedback from our clients -->
-		<section class="blog section" id="blog">
-			<div class="container">
+		<section class="blog section" id="blog" style="background-color: #17202c !important;">
+			<div class="container-fluid">
 				<div class="row">
-					<div class="col-lg-12">
-						<div class="section-title">
-							<h2>Take your Business To next Level</h2>
-							<!-- <img src="img/section-img.png" alt="#">
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit praesent aliquet. pretiumts</p> -->
+					<div class="col-lg-12" style="background-color: #f9c349; width: 100%;">
+						<div class="section-title px-0">
+							<h1 style="color: #fff; font-size: 90px;">Take your Business To Next Level</h1>
+							<a href="#contact" class="btn btn-primary mt-4"
+								style="padding: 12px 30px; font-size: 18px; border-radius: 30px; background: linear-gradient(135deg, #00c6ff, #0072ff); border: none;">
+								<i class="fa fa-calendar-check me-2"></i>&nbsp;&nbsp;Schedule a Demo Call
+							</a>
 						</div>
 					</div>
 				</div>
