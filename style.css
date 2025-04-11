@@ -250,6 +250,11 @@ body{
 	padding:0;
 }
 /* Topbar */
+@media (max-width:576px) {
+    .header .topbar{
+		display: none !important;
+    }
+}
 .header .topbar{
 	background-color:#fff;
 	border-bottom:1px solid #eee;
@@ -309,7 +314,7 @@ body{
 }
 .header .logo {
 	float: left;
-	margin-top: 18px;
+	margin: 5px 0px;
 }
 .header .navbar {
 	background: none;
