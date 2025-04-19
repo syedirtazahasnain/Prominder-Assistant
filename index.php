@@ -6,7 +6,7 @@ include('header.php');
 		<section class="slider">
 			<div class="hero-slider">
 				<!-- Start Single Slider -->
-				<div class="single-slider" style="background-image:url('img/slider2.jpg')">
+				<div class="single-slider" style="background-image:url('img/slider2.png')">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
@@ -41,7 +41,7 @@ include('header.php');
 				</div>
 				<!-- Start End Slider -->
 				<!-- Start Single Slider -->
-				<!-- <div class="single-slider" style="background-image:url('img/slider3.jpg')">
+				<!-- <div class="single-slider" style="background-image:url('img/slider3.png')">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-7">
@@ -217,7 +217,7 @@ include('header.php');
 						<img src="img/slider.jpg" style="max-width: 106%;" alt="#">
 					</div>
 					<div class="col-lg-6">
-						<img src="img/slider2.jpg" style="max-width: 106%;" alt="#">
+						<img src="img/slider2.png" style="max-width: 106%;" alt="#">
 					</div>
 				</div>
 			</div>
@@ -240,7 +240,7 @@ include('header.php');
 						<img src="img/slider.jpg" style="max-width: 106%;" alt="#">
 					</div>
 					<div class="col-lg-4">
-						<img src="img/slider2.jpg" style="max-width: 106%;" alt="#">
+						<img src="img/slider2.png" style="max-width: 106%;" alt="#">
 					</div>
 					<div class="col-lg-4">
 						<img src="img/slider.jpg" style="max-width: 106%;" alt="#">
