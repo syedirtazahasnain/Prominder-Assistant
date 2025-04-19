@@ -86,8 +86,8 @@
 						<div class="col-lg-6 col-md-5 col-12">
 							<!-- Contact -->
 							<ul class="top-link">
-								<li><a href="index.html#about-sec">About</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Contact</a></li>
 								<li><a href="#">FAQ</a></li>
 							</ul>
 							<!-- End Contact -->
@@ -129,7 +129,7 @@
 										<li class="">
 										  <a href="index.html">Home</a>
 										</li>
-										<li><a href="index.html#about-sec">About </a></li>
+										<li><a href="#">About </a></li>
 										<li class="active"><a href="contact.html">Contact Us</a></li>
 									  </ul>
 									</nav>
