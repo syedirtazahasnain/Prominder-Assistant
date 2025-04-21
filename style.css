@@ -48,6 +48,15 @@ Version:	1.1
 /*=============================
 	Global CSS 
 ===============================*/
+
+@media (max-width: 767px) {
+	li.heder-link {
+	  text-align: center;
+	  display: block; 
+	  width: 100%;
+	}
+  }
+
 body{
     font-family: 'Poppins', sans-serif;
 	font-weight: 400;
